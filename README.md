@@ -20,16 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do projeto-Solo de bateria
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+criar uma imagem de um baterista solando e o público aplaudindo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas- Meta AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+descrição da imagem no app WhatsApp Meta Ai
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
